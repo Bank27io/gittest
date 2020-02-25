@@ -261,7 +261,7 @@ class _MyHomePage1State extends State<MyHomePage1> {
             children: <Widget>[
               Container(
                   child: Text(
-                "อุปกรณ์ของฉัน",
+                "อุปกรณ์ของฉัน",//testststst
                 style: TextStyle(fontSize: 15, color: Colors.blue[900]),
               )),
               Container(
